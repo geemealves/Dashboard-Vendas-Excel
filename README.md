@@ -11,7 +11,7 @@ Este projeto contém um dashboard de vendas desenvolvido no Microsoft Excel, uti
 ## 📁 Arquivos
 
 - `dashboard_vendas.xlsx` → arquivo principal com o dashboard final
-- `base.xlsx` (caso queira incluir) → base de dados usada para construção
+- `bd_vendas.xlsx` (caso queira incluir) → base de dados usada para construção
 
 ---
 
@@ -34,9 +34,11 @@ Este projeto contém um dashboard de vendas desenvolvido no Microsoft Excel, uti
 
 ---
 
-📧 Contato
+## 📧 Contato
+
 Se você tiver alguma dúvida, sugestão ou quiser se conectar, sinta-se à vontade para entrar em contato:
-**LinkedIn:** [https://www.linkedin.com/in/guilherme-alves-a576092b1/]
-**Email:** [gmteixeiralves@hotmail.com] 
+
+* **LinkedIn:** [https://www.linkedin.com/in/guilherme-alves-a576092b1/]
+* **Email:** [gmteixeiralves@hotmail.com] 
 
 ---
